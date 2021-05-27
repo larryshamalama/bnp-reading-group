@@ -2,7 +2,7 @@
 
 While tentative, below is a schedule of what I had in mind.
 
-### Preliminary readings
+### Preliminary readings (more as references than to actually read)
 
 - Probability theory: [Williams (1991)](http://static.stevereads.com/papers_to_read/probability_with_martingales_williams_.pdf) Chapters 1 to 3
 - Bayesian decision theory: [The Bayesian Choice](https://link.springer.com/book/10.1007/0-387-71599-1) Chapter 2 or [Bernardo and Smith (1994)](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316870) for a wild ride
